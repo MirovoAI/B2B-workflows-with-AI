@@ -1,6 +1,6 @@
 # B2B-workflows-with-AI
 # Intelligent B2B Workflows – Exploratory Notes
-his is an open thread of ideas and models I'm exploring to simplify B2B workflows using AI and automation. 
+This is an open thread of ideas and models I'm exploring to simplify B2B workflows using AI and automation. 
 
 The aim is to help SMBs and startups cut down time on repetitive tasks and focus more on growth.
 
